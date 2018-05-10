@@ -1,0 +1,45 @@
+html{
+	background: url(wild.jpg);
+	background-size: cover;
+}
+body{
+	margin: 0px;
+	margin-top: 5px;
+
+}
+
+
+.item{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+}
+h2{
+ 	margin: 0px;
+ 	color: white;
+ 	border:  5px solid rgba(225, 255, 255,0.9);
+ 	margin: 10px;
+ 	display:inline-block;
+ 	
+ }
+
+h1{
+font-family: all;
+font-size:3em;
+border-bottom: 2px solid pink ;
+border-right: 2px solid pink ;
+width: 400px;
+text-align: center;
+box-shadow: 4px 4px 5px #888888;
+}
+
+
+img{
+width: 350px;
+height: 200px;
+margin: 10px;
+transition: all 0.4s;
+}
+img:hover{
+transform: scale(1.5);
+}

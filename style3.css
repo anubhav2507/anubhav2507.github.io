@@ -1,0 +1,32 @@
+html
+{
+background-image: url(backgif.gif);
+background-size: cover;
+
+}
+
+h2:hover
+{
+	color: #AA8431;
+}
+.abc
+{
+
+	
+	
+	border: 4px solid black;
+display: inline-grid;
+background-color: rgba(255, 231, 250,0.5);
+margin: 10px;
+	cursor: pointer;
+	display: inline-grid;
+	color: rgba(0, 0, 0,1);
+	
+}
+h3
+{
+		text-align: center ;
+
+color: #4A001B
+
+}
